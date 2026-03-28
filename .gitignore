@@ -1,0 +1,28 @@
+# Fichiers sensibles
+*.key
+*.pem
+*.crt
+*.pfx
+*.env
+*.secret
+passwords.txt
+credentials.json
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documents personnels (à adapter)
+notes-personnelles.md

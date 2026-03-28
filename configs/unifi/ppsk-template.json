@@ -1,0 +1,18 @@
+{
+    "_id": "ppsk-template-admin",
+    "wlan_group": "default",
+    "name": "SSID-PPSK-Admin",
+    "x_passphrase": "<MOT_DE_PASSE_PPSK_ADMIN>",
+    "security": "wpapsk",
+    "wpa_mode": "wpa2",
+    "vlan_enabled": true,
+    "vlan": 10,
+    "is_guest": false,
+    "enabled": true,
+    "name_combine_enabled": false,
+    "schedule": {
+        "start": "00:00",
+        "stop": "23:59"
+    },
+    "_comments": "Template PPSK pour VLAN Admin - Adapter le mot de passe"
+}
